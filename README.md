@@ -66,4 +66,4 @@ class Home extends StatelessWidget {
 ```
 <!-- Links -->
 [flutter_documentation]: https://docs.flutter.dev/
-[masonry_example]: example/assets/images/example.jpeg
+[masonry_example]: https://raw.githubusercontent.com/Ai-Rocky/flutter_masonry_view/main/example/assets/images/example.jpeg
