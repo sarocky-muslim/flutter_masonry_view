@@ -1,7 +1,7 @@
 name: flutter_masonry_view
 description: A Flutter Masonry Grid Layout.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Ai-Rocky/flutter_masonry_view.git
 
 environment:
   sdk: ">=2.17.3 <3.0.0"

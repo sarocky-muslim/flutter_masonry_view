@@ -41,7 +41,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('National Symbols of Bangladesh'),
+        title: const Text('Flutter Masonry View'),
       ),
       body: SingleChildScrollView(
         child: MasonryView(
