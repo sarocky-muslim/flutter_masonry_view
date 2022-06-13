@@ -1,6 +1,6 @@
 name: flutter_masonry_view
-description: A Flutter Masonry Grid Layout.
-version: 0.0.1
+description: A flutter masonry grid layout to display a list of any number of columns. Also, it can be customized with the item padding and border radius.
+version: 0.0.2
 homepage: https://github.com/Ai-Rocky/flutter_masonry_view.git
 
 environment:

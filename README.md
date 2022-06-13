@@ -1,8 +1,7 @@
 # flutter_masonry_view
-A Flutter Masonry Grid Layout. Simple to use and easy to understand
+A Flutter Masonry Grid Layout. Simple to Use and Easy to Understand
 
 ## Getting started
-
 In the `pubspec.yaml` of your flutter project, add the following dependency:
 
 ```yaml
@@ -20,12 +19,10 @@ import 'package:flutter_masonry_view/flutter_masonry_view.dart';
 For help getting started with Flutter, view the online [documentation][flutter_documentation].
 
 ## Masonry
-
-This layout facilitates the browsing of uncropped peer content. Container heights are sized based on the widget size. 
+It works by placing elements in optimal position based on available vertical space, sort of like a mason fitting stones in a wall. You've probably seen it in use all over the Internet. 
 
 
 ### **Example**
-
 ![Masonry example][masonry_example]
 
 ```dart
