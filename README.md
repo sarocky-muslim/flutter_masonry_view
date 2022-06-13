@@ -14,7 +14,7 @@ dependencies:
 In your library add the following import:
 
 ```dart
-import 'package:flutter_masonry_view/masonry_view.dart';
+import 'package:flutter_masonry_view/flutter_masonry_view.dart';
 ```
 
 For help getting started with Flutter, view the online [documentation][flutter_documentation].

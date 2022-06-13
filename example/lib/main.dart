@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_masonry_view/masonry_view.dart';
+import 'package:flutter_masonry_view/flutter_masonry_view.dart';
 
 void main() {
   runApp(const MyApp());
