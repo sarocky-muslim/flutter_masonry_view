@@ -19,18 +19,12 @@ import 'package:flutter_masonry_view/masonry_view.dart';
 
 For help getting started with Flutter, view the online [documentation][flutter_documentation].
 
-## Layouts
+## Masonry
 
-This package contains various grid layouts. In the following section, you'll discover each one of them.
-The explanation of the layout will always considered a top-to-bottom and left-to-right directions to simplify the description. However it is possible to change these directions in the code. 
-
-
-### **Masonry**
-
-This layout facilitates the browsing of uncropped peer content. Container heights are sized based on the widget size.
+This layout facilitates the browsing of uncropped peer content. Container heights are sized based on the widget size. 
 
 
-#### **Example**
+### **Example**
 
 ![Masonry example][masonry_example]
 
